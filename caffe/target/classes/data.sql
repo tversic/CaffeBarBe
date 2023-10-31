@@ -1,0 +1,1 @@
+INSERT INTO caffe_bar_admin (username, password) VALUES ('admin', 'admin');
